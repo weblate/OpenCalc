@@ -85,4 +85,5 @@
     <string name="show_on_lock_screen">Pokaż na ekranie blokady</string>
     <string name="keep_the_calculator_visible_on_your_lock_screen_for_quick_and_easy_access_disable_to_hide_it_when_your_screen_is_locked">Utrzymuj kalkulator widoczny na ekranie blokady, aby mieć do niego szybki i łatwy dostęp. Wyłącz tę opcję, aby ukryć kalkulator, gdy ekran jest zablokowany.</string>
     <string name="pointDesc">kropka</string>
+    <string name="backspaceDesc">back space</string>
 </resources>
