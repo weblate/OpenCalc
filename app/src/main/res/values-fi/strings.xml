@@ -2,4 +2,32 @@
 <resources>
     <string name="logarithmDesc">logaritmi</string>
     <string name="app_name_display">Laskin</string>
+    <string name="squareDesc">neliö</string>
+    <string name="piDesc">pii</string>
+    <string name="exponentDesc">eksponentti</string>
+    <string name="factorialDesc">faktoriaali</string>
+    <string name="degreeDesc">aste</string>
+    <string name="sineDesc">sini</string>
+    <string name="cosineDesc">kosini</string>
+    <string name="tangentDesc">tangentti</string>
+    <string name="invertDesc">käänteinen</string>
+    <string name="eDesc">e</string>
+    <string name="naturalLogarithmDesc">naturaalinen logarifmi</string>
+    <string name="clearDesc">tyhjennä</string>
+    <string name="parenthesesDesc">sulut</string>
+    <string name="percentDesc">prosentti</string>
+    <string name="backspaceDesc">poista</string>
+    <string name="pointDesc">piste</string>
+    <string name="menu_clear_history">Tyhjennä historia</string>
+    <string name="menu_settings">Asetukset</string>
+    <string name="menu_about">Tietoja</string>
+    <string name="settings_category_general">YLEISET</string>
+    <string name="settings_category_history">HISTORIA</string>
+    <string name="settings_category_advanced">EDISTYNEET</string>
+    <string name="settings_general_language">Kieli</string>
+    <string name="settings_general_theme">Teema</string>
+    <string name="settings_general_vibration">Värinä</string>
+    <string name="settings_general_vibration_desc">Värise, kun painetaan nappia</string>
+    <string name="settings_general_split_parenthesis_button">Jaa sulut nappi kahteen nappiin</string>
+    <string name="settings_general_split_parenthesis_button_desc">Poista \"AC\" nappi jakaakseen sulut nappi kahteen nappiin</string>
 </resources>
